@@ -96,15 +96,6 @@ streamlit run app.py
 
 ---
 
-## 📓 Jupyter Notebooks
-
-- basic_web_rag.ipynb → Shows how to perform RAG over a webpage using LangChain.
-+ basic_wikipedia_rag.ipynb → Demonstrates RAG over Wikipedia content.
-
-These notebooks provide a step-by-step breakdown of how RAG works without the Streamlit UI.
-
----
-
 ## 🛠️ Tech Stack
 
 * Streamlit → Web UI for chatbot.
