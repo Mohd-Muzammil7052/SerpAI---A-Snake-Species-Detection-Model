@@ -69,8 +69,8 @@ The dataset includes **multiple snake species** with labels stored in [`Snake_Sp
 Clone the repo and install dependencies:  
 
 ```bash
-git https://github.com/Mohd-Muzammil7052/SerpAI---A-Snake-Species-Detection-Model.git
-cd SerpAI-Snake-Detection
+git clone https://github.com/Mohd-Muzammil7052/SerpAI---A-Snake-Species-Detection-Model.git
+cd SerpAI---A-Snake-Species-Detection-Model
 pip install -r requirements.txt
 ```
 ## ⚙️ Setup
@@ -175,5 +175,7 @@ For queries or collaborations:
 
 **Mohd Muzammil**  
 - [GitHub](https://github.com/Mohd-Muzammil7052)  
-- [LinkedIn](https://www.linkedin.com/in/mohd-muzammil-109044290/)  
+- [LinkedIn](https://www.linkedin.com/in/mohd-muzammil-109044290/)
+
+---
 
